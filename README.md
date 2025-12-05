@@ -214,7 +214,7 @@ The link will be updated here once the presentation is published.
 2. Warriner AH, Saag KG. Clinical risk assessment tools for osteoporosis.  
 3. Vickers AJ, Elkin EB. Decision curve analysis for evaluating prediction models.  
 4. Lundberg SM, Lee S-I. A unified approach to model interpretability (SHAP).  
-5. Kaggle. Lifestyle Factors Influencing Osteoporosis. https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-osteoporosis[data][web:46][web:47]  
+5. Kaggle. Lifestyle Factors Influencing Osteoporosis. https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-osteoporosis  
 6. Additional machine learning and CDSS literature sources cited in the full project report.
 
 ---
