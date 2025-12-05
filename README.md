@@ -159,7 +159,7 @@ Future versions may include web, mobile, or EHR integration for real-world clini
 
 A full walkthrough of this project—including methodology, model results, SHAP explanations, and CDSS demonstration—will be available on YouTube.
 
-🔗 **YouTube Presentation Link:** *(Coming Soon)*
+🔗 **YouTube Presentation Link:** *https://youtu.be/xDSYtAoX2VQ *
 
 The video will cover:
 - Clinical background & problem significance  
@@ -168,8 +168,6 @@ The video will cover:
 - Explainable AI (SHAP) insights  
 - Evaluation metrics (ROC, Calibration, DCA)  
 - Demonstration of the CDSS prototype  
-
-The link will be updated here once the presentation is published.
 
 ---
 
@@ -219,7 +217,7 @@ The link will be updated here once the presentation is published.
 
 ---
 
-**Author:** Syllas Otutey  
+**Author:** Syllas Otutey & Mary Nnipaa Meteku 
 **Program:** MS Health Informatics – Public Health Informatics & AI in Healthcare  
 **Institution:** Michigan Technological University  
 
